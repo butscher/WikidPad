@@ -2,3 +2,5 @@
 /.hgeol
 /.hgignore
 /.hgtags
+*.pyc
+*.pyo

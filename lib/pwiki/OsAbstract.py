@@ -15,8 +15,7 @@ if SystemInfo.isWindows():
     try:
         import WindowsHacks
     except:
-        if SystemInfo.isWindows():
-            traceback.print_exc()
+        traceback.print_exc()
         WindowsHacks = None
 else:
     WindowsHacks = None
