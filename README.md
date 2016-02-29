@@ -1,3 +1,7 @@
+# Important!
+
+This isn't the official repository anymore. Instead go to [this GitHub repository](https://github.com/WikidPad/WikidPad/)
+
 # What is WikidPad?
 
 WikidPad is a Wiki-like notebook for storing your thoughts, ideas, todo lists,
@@ -24,7 +28,7 @@ WikidPad is nearly completely written in Python, only some external libraries
   [Linux](http://trac.wikidpad2.webfactional.com/wiki/InstallLinux),
   [MacOS](http://trac.wikidpad2.webfactional.com/wiki/InstallMacosxNew)
 * [WikidPad's own wiki](http://trac.wikidpad2.webfactional.com/)
-* [Source repository on Github](https://github.com/butscher/WikidPad/)
+* [Source repository on GitHub](https://github.com/WikidPad/WikidPad/)
 
 
 # License
